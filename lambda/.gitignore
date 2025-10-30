@@ -1,0 +1,14 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Terraform crash logs
+crash.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# AWS zip files (optional, can push if needed)
+*.zip
