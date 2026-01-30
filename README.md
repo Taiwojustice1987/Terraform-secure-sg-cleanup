@@ -76,13 +76,4 @@ This project is licensed under the MIT License.
 vbnet
 Copy code
 
----
 
-This version is **short, professional, and GitHub-friendly**. It highlights:
-
-- What the project does  
-- How to deploy & test it  
-- Project structure  
-- Optional cleanup instructions  
-
-It avoids large outputs or clutter.  
